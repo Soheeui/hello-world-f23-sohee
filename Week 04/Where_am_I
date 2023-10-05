@@ -1,0 +1,44 @@
+from turtle import Screen, Turtle, onclick
+from random import choice, random
+
+
+pen_colors = ["#FF00FF", "#A62E22"]
+outline_colors = ["white","#FF594B"]
+dot_size = [100,10,30,77,50,2]
+
+
+screen = Screen()
+screen.bgcolor("#A7A6A7")
+screen.setup (width=2000, height=500, startx=0, starty=0)
+screen.title("Where am I going?")
+screen.setworldcoordinates(-400, -200, 400, 200)
+
+
+t = Turtle()
+t.shape("blank")
+t.pen(pensize=1)
+t.speed(10)
+
+
+for i in range(100):
+    steps = int(random() * 50)
+    angle = int(random() * 360)
+    t.right(angle)
+    t.fd(steps)
+    
+    t.dot(choice(dot_size))
+    t.pencolor(choice(outline_colors))
+
+
+
+for i in range(100):
+    steps = int(random() * 80)
+    angle = int(random() * 360)
+    t.right(angle)
+    t.fd(steps)
+    
+    t.pencolor(choice(pen_colors))
+
+
+
+screen.mainloop()
