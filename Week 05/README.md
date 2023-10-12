@@ -11,13 +11,13 @@ In this context, the box represents space, while the dots symbolize our lives. E
 This artwork illustrates how we are tirelessly pursuing time, and this pursuit is what real time might be all about.
 
 
-##### [Trapped in time, Pursuing time 1]
+##### Trapped in time, Pursuing time 1
 ![Trappedintime_Pursuingtime_1](trapped_in_time_pursuing_time_01.png "WTrapped in time, Pursuing time 1")
 
 
 
-##### [Trapped in time, Pursuing time 2]
+##### /rapped in time, Pursuing time 2
 ![Trappedintime_Pursuingtime_2](trapped_in_time_pursuing_time_02.png "WTrapped in time, Pursuing time 2")
 
-##### [Trapped in time, Pursuing time 3]
+##### Trapped in time, Pursuing time 3
 ![Trappedintime_Pursuingtime_3](trapped_in_time_pursuing_time_03.png "WTrapped in time, Pursuing time 3")
