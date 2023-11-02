@@ -1,12 +1,12 @@
 # Shadow Keeper
 
-##Introduction
+## Introduction
 
 Based on the experiences I had when I first arrived in New York, I created a game where my choices and responses make people perceive my existence in a city where I know no one. In this way, my presence is formed and sometimes disappears. I wanted to create a game based on these experiences.
 
 I wanted to create a one-button game using the Shadow Keeper concept that we worked on for Week 3 assignment.
 
-##Shadow Keeper
+## Shadow Keeper
 
 ![None](sketch.png "sketch")
 
