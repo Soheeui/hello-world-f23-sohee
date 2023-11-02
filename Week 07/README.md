@@ -8,13 +8,13 @@ I wanted to create a one-button game using the Shadow Keeper concept that we wor
 
 ## Shadow Keeper
 
-![None](game_sketch.png "game_sketch")
+![None](02.png "02")
 
 The Shadow represents 'existence.' The game involves the player answering questions to protect the Shadow. In the background, the player is shown, represented by their shadow. Questions appear on top of the shadow. By pressing buttons, the player makes choices and provides answers. Depending on the chosen answers, the game's logic determines how well the player's Shadow is protected, which is revealed as the game's outcome.
 
 There is no clear-cut answer. Through this, I aimed to reflect the reality of not knowing what consequences my actions to protect my existence will bring.
 
 ## Game Flow chart
-![None](game_logic.png "game_logic")
+![None](01.png "01")
 
 It is consist of 6 questions and 6 results.
